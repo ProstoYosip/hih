@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+	<head>
+		<meta> HTML: &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</meta>
+		<inlinegraphic fileref="#img/logo.png" width="0.7862inch" depth="0.3929inch"/>
+	</head>
+	<header>
+		<ul id="navbar">
+			<li>
+				<link>Home</link>
+			</li>
+			<li>
+				<link>Historia</link>
+			</li>
+			<li>
+				<link>More</link>
+				<ul>
+					<li>
+						<link>O mnie</link>
+					</li>
+					<li>
+						<link>Strefa siatkówki</link>
+					</li>
+					<li>
+						<link>Zasady gry</link>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</header>
+	<blocks>
+		<block1>
+			<img fileref="#img/img/1364747854_voleybol1.jpg" width="0.7862inch" depth="0.3929inch"/>
+			<text>Moja ulubiona pozycja w siatkówce to pod siatką, lubię podawać napastnikom, nie jestem w tym zły. Ale nie
+					mam wzrostu i wytrzymałości, by blokować ataki drużyny przeciwnej, ale to nie powstrzymało mnie przed
+					dobrą grą.
+			</text>
+		</block1>
+		<block2>
+			<img fileref="#img/siatkowka.jpg" width="0.7862inch" depth="0.3929inch"/>
+			<text>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque ea laboriosam a explicabo
+					rem, deleniti officia illo quidem accusamus laudantium ducimus non minima natus. Obcaecati odit est
+					voluptate voluptatibus.
+			</text>
+		</block2>
+		<block3>
+			<img fileref="#img/siatkowka.jpg" width="0.7862inch" depth="0.3929inch"/>
+			<text>
+				Moim ulubionym serwisem w siatkówce jest serwis z wyskoku. Kiedy piłka leci bez rotacji iz tego powodu
+					zmienia swoją trajektorię.
+			</text>
+		</block3>
+	</blocks>
+	<footer>
+		<name>Stanislav Matiushchenko</name>
+	</footer>
+</body>
