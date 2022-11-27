@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+	<head>
+		<meta>HTML: &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</meta>
+	</head>
+	<header>
+		<ul id="navbar">
+			<li>
+				<link>Home</link>
+			</li>
+			<li>
+				<link>Historia</link>
+			</li>
+			<li>
+				<link>More</link>
+				<ul>
+					<li>
+						<link>O mnie</link>
+					</li>
+					<li>
+						<link>Strefa siatkówki</link>
+					</li>
+					<li>
+						<link>Zasady gry</link>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</header>
+	<block1>
+		<img fileref="#img/historia-siatkowki-w-polsce.jpg" width="0.7862inch" depth="0.3929inch"/>
+	</block1>
+	<block2>
+		<img fileref="#img/historia_i_zasady_siatkowki.jpg" width="0.7862inch" depth="0.3929inch"/>
+	</block2>
+	<block3>
+		<img fileref="#img/xe3ok7c51oh19qg4uq5scz2uuojm4puw.jpg" width="0.7862inch" depth="0.3929inch"/>
+	</block3>
+	<block4>
+		<p>Pomysłodawcą reguł gry w piłkę siatkową był William G. Morgan – na co dzień nauczyciel wychowania fizycznego w Young Men's Christian Associaton (YMCA) w Holyoke w Massachusetts. 9 lutego 1895 odbył się w tamtejszej sali gimnastycznej premierowy pokaz stworzonej przez niego dyscypliny, którą wówczas nazywano Minonette[1]. W dniach 18–20 kwietnia 1947, podczas Kongresu w Paryżu, powołano do życia Międzynarodową Federację Piłki Siatkowej (FIVB). Jej pierwszym prezesem został Paul Libaud (sprawował on tę funkcję aż do 1984), a jednym z jego zastępców został Zygmunt Nowak. Wśród założycieli FIVB było 14 krajów – Belgia, Brazylia, Czechosłowacja, Egipt, Francja, Holandia, Jugosławia, Polska, Portugalia, Rumunia, Urugwaj, Stany Zjednoczone, Węgry i Włochy. W 1949 zorganizowano pierwsze Mistrzostwa Świata mężczyzn, a w 1952 Mistrzostwa Świata kobiet. Mistrzostwa Europy mężczyzn wprowadzono do kalendarza w 1948, a Mistrzostwa Europy kobiet w 1949. Do programu olimpijskiego siatkówka (zarówno w wydaniu kobiet, jak i mężczyzn) weszła w 1964, podczas Letnich Igrzysk Olimpijskich w Tokio. </p>
+	</block4>
+	<table frame="all">
+		<tgroup cols="1">
+			<tbody>
+					<title1>
+						<text>Ważniejsi zmiany w gre</text>
+					</title1>
+					<wiersz1>
+						<tresc>
+							<text>1947 rok - wymiar boiska do siatkówki i wysokość siatki.</text>
+						</tresc>
+					</wiersz1>
+				<wiersz2>
+					<tresc>
+						<text>1958 rok - Czesi po raz pierwszy pokazali możliwość odbicia dołem.</text>
+					</tresc>
+				</wiersz2>
+				<wiersz3>
+					<tresc>
+						<text>1968 rok - siatka do siatkówki została wzbogacona o antenki, a ilość odbić wzrosła do 4 pod warunkiem, że pierwszy kontakt z piłką to blok</text>
+					</tresc>
+				</wiersz3>
+				<wiersz4>
+					<tresc>
+						<text>1984 rok - zakazano blokowania serwisu i Brazylijczycy pokazali jak skutecznie można wykonywać zagrywkę z wyskoku.</text>
+					</tresc>
+				</wiersz4>
+			</tbody>
+		</tgroup>
+	</table>
+	<footer>
+		<name>Stanislav Matiushchenko</name>
+	</footer>
+</body>
