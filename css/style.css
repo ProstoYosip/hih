@@ -514,3 +514,109 @@ th {
 	.alltext__all.title {
 	}
 }
+/* site mobale*/
+@media all and (max-width: 410px) {
+	/* navbar */
+	#navbar {
+		z-index: 1;
+		width: 375px;
+		margin-right: 0px;
+		padding-left: 30px;
+		border-radius: 0px;
+	}
+	#navbar li {
+		padding-right: 0px;
+	}
+	/* page1 */
+	.header__menu.logo {
+		opacity: 0;
+	}
+	.alltext__all.title {
+		top: 50px;
+		left: 80px;
+	}
+	.alltext__all.text {
+		top: 150px;
+		left: 80px;
+	}
+	.aboutme__all.title {
+		position: absolute;
+		top: 450px;
+		left: 20px;
+	}
+	.aboutme__all.text {
+		position: absolute;
+		top: 550px;
+		left: 20px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.trescp1 footer {
+		height: 0px;
+		top: 0px;
+		opacity: 0;
+		width: 0px;
+	}
+	.trescp1 footer p {
+		padding: 0px;
+		opacity: 0;
+	}
+	.trescp1 {
+		overflow-x: hidden;
+	}
+	/* page 2*/
+	.blocks__img {
+		padding-left: 0px;
+		flex-direction: row;
+		top: 50px;
+	}
+	.img {
+	}
+	.img img {
+		z-index: 0;
+		width: 100%;
+	}
+	.blocks__text {
+		top: 200px;
+		width: 100%;
+		padding: 10px;
+	}
+	table {
+		opacity: 0;
+	}
+	.trescp2 footer {
+		height: 0px;
+		top: 0px;
+		opacity: 0;
+		width: 0px;
+	}
+	.trescp2 footer p {
+		padding: 0px;
+		opacity: 0;
+	}
+	.trescp2 {
+		overflow-x: hidden;
+	}
+	/* page3 */
+	.blocks__block1.img {
+		flex-direction: column;
+		padding: 10px;
+		padding-top: 40px;
+	}
+	.blocks__block.text {
+		padding: 20px;
+	}
+	.trescp3 footer {
+		height: 0px;
+		top: 0px;
+		opacity: 0;
+		width: 0px;
+	}
+	.trescp3 footer p {
+		padding: 0px;
+		opacity: 0;
+	}
+	.trescp3 {
+		overflow-x: hidden;
+	}
+}
