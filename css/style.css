@@ -329,9 +329,6 @@ th {
 	line-height: 26px;
 	color: #727272;
 }
-/*page2 mobale*/
-@media all and (max-width: 410px) {
-}
 
 /*page3*/
 .blocks {
