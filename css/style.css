@@ -238,53 +238,7 @@ th {
 	line-height: 26px;
 	color: #727272;
 }
-@media all and (max-width: 410px) {
-	.header__menu.logo {
-		opacity: 0;
-	}
-	.alltext__all.title {
-		top: 50px;
-		left: 100px;
-	}
-	.alltext__all.text {
-		top: 150px;
-		left: 100px;
-	}
-	.aboutme__all.title {
-		position: absolute;
-		top: 450px;
-		left: 50px;
-	}
-	.aboutme__all.text {
-		position: absolute;
-		top: 550px;
-		left: 50px;
-		padding-left: 20px;
-		padding-right: 20px;
-	}
-	.trescp1 footer {
-		height: 0px;
-		top: 0px;
-		opacity: 0;
-		width: 0px;
-	}
-	.trescp1 footer p {
-		padding: 0px;
-		opacity: 0;
-	}
-	.trescp1 {
-		overflow-x: hidden;
-	}
 
-	#navbar {
-		width: 400px;
-		margin-right: -25px;
-		padding-left: 50px;
-	}
-	#navbar li {
-		padding-right: 0px;
-	}
-}
 /*page2*/
 .tresc {
 	display: flex;
@@ -510,10 +464,7 @@ th {
 	color: #707981;
 }
 /*--------------------*/
-@media (screen: 1200px) {
-	.alltext__all.title {
-	}
-}
+
 /* site mobale*/
 @media all and (max-width: 410px) {
 	/* navbar */
